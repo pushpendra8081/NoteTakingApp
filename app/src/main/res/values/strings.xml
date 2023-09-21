@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P Notes</string>
+    <string name="delete">Delete</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+</resources>
